@@ -1,34 +1,53 @@
 <template>
-<h1>About Me</h1>
-<p>Hello! I am Mark Revin O. Barbon passionate about learning and always eager to explore new opportunities in life. Welcome to my page!</p>
-
-<h2>Education / Achievements</h2>
+<div class="container">
+<h1>Personal Profile Webpage</h1>
+<hr>
+<h2>About Me</h2>
+<p>Name: Julian Rylie B. Tengco</p>
+<p>Nickname: Rylie</p>
+<h3> Education / Achievements </h3>
+<p> 
+<h5>Maranatha Christian Academy of Imus </h5>
 <ul>
-    <li>College Undergrad</li>
-    <li>With Honor in Senior High School</li>
-</ul>
-
-<h2>Course</h2>
-<p>Currently pursuing Information Technology Specialized in Mobile Internet.</p>
-
-<h2>IT Experience</h2>
-<table border="1">
-    <tr>
-        <th>Coding</th>
-        <th>Figma</th>
-        <th>Android Studio</th>
-</table>
-
-<h2>Hobbies & Interests</h2>
+<li>Junior High - Senior High (STEM strand)</li>
+<li>Graduated Senior High with High Honors</li>
+</ul>  
+</p>
+ 
+<p> <h5>Asia Pacific College (2023-PRESENT)</h5>
 <ul>
-    <li>Gaming</li>
-    <li>Content Creator</li>
-    <li>Basketball</li>
+<li>BSIT-MI</li>
+<li>1st Year of College - Honors</li>
+</ul>  
+</p>
+ 
+<h3> Course </h3>
+<p> Bachelor of Science in Information Technology with specialization in Mobile and Internet Technologies </p>
+ 
+<h3> IT Experience </h3>
+<p> 
+<ul>
+<li>Basics of Java Codes</li>
+<li>Basics of Python Codes</li>
+</ul>  
+</p>
+ 
+<h3> Hobbies & Interests </h3>
+<ul>
+<li>Gym</li>
+<li>Volleyball</li>
+<li>Playing Games</li>
+<li>Reading Manga and Manhwa</li>
+<li>Anime</li>
+</ul>  
+ 
+<h3> Goals In Life / Dream </h3>
+<ul>
+<li>Be Successful</li>
+<li>Have a Stable Income</li>
+<li>Live a Happy Life</li>
 </ul>
-
-<h2>Goals in Life / Dream</h2>
-<p>My ultimate goal is to innovate solutions that make technology more accessible and impactful. I dream of creating a startup that bridges gaps in education using AI.</p>
-
+</div>
 </template>
  
 <script></script>
