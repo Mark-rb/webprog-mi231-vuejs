@@ -29,18 +29,6 @@
 <h2>Goals in Life / Dream</h2>
 <p>My ultimate goal is to innovate solutions that make technology more accessible and impactful. I dream of creating a startup that bridges gaps in education using AI.</p>
 
-<h2>Picture Gallery</h2>
-<table>
-    <tr>
-        <td><img src="https://media.discordapp.net/attachments/1311356982304837694/1311357056288030831/me.jpg?ex=67488fee&is=67473e6e&hm=cf5b51fbc48bd65157024817ad1a2ec105b447a1faf25ca9611909255028611b&=&format=webp&width=279&height=419" alt="A person holding a camera" width="150" height="150"></td>
-</table>
-
-<h2>Useful Links</h2>
-<ul>
-    <li><a href="https://www.w3schools.com/html/">Learn HTML</a></li>
-    <li><a href="https://www.github.com/">GitHub</a></li>
-    <li><a href="https://www.stackoverflow.com/">Stack Overflow</a></li>
-</ul>
 </template>
  
 <script></script>
