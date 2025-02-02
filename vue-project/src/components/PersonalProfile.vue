@@ -3,24 +3,16 @@
 <h1>Personal Profile Webpage</h1>
 <hr>
 <h2>About Me</h2>
-<p>Name: Julian Rylie B. Tengco</p>
-<p>Nickname: Rylie</p>
+<p>Name: Mark Revin O, Barbon</p>
+<p>Nickname: Mac Mac</p>
 <h3> Education / Achievements </h3>
 <p> 
-<h5>Maranatha Christian Academy of Imus </h5>
 <ul>
-<li>Junior High - Senior High (STEM strand)</li>
-<li>Graduated Senior High with High Honors</li>
+<li>College Undergrad</li>
+<li>With Honor in Senior High School</li>
 </ul>  
 </p>
- 
-<p> <h5>Asia Pacific College (2023-PRESENT)</h5>
-<ul>
-<li>BSIT-MI</li>
-<li>1st Year of College - Honors</li>
-</ul>  
-</p>
- 
+
 <h3> Course </h3>
 <p> Bachelor of Science in Information Technology with specialization in Mobile and Internet Technologies </p>
  
@@ -34,18 +26,15 @@
  
 <h3> Hobbies & Interests </h3>
 <ul>
-<li>Gym</li>
-<li>Volleyball</li>
-<li>Playing Games</li>
-<li>Reading Manga and Manhwa</li>
+<li>Gaming</li>
+<li>Content Creator</li>
+<li>Basketball</li>
 <li>Anime</li>
 </ul>  
  
 <h3> Goals In Life / Dream </h3>
 <ul>
-<li>Be Successful</li>
-<li>Have a Stable Income</li>
-<li>Live a Happy Life</li>
+<p>My ultimate goal is to innovate solutions that make technology more accessible and impactful. I dream of creating a startup that bridges gaps in education using AI.</p>
 </ul>
 </div>
 </template>
