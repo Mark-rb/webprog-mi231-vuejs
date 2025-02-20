@@ -8,8 +8,7 @@
 <food-item2/> <br>
 <food-item/> <br>
 <personal-profile/> <br>
-<comment-form/>
-<comment/>
+<rest-api/>
 </template>
  
 <script setup>
